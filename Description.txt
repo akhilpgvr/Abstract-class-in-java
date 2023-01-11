@@ -1,3 +1,9 @@
 Abstraction is the process of showing only necessary details.
 Abstract class can contain only abstract datas.
 The functions that used in abstract class have to be used in its child class.
+
+
+In this code, I have used abstract class to call multiple child classes having same method.
+
+It can be done by creating object of child class and assign to parent class(abstract class).
+So when abstract method is called using parent class -> it triggers method (abstract method used) is triggered.
