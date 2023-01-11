@@ -1,0 +1,3 @@
+Abstraction is the process of showing only necessary details.
+Abstract class can contain only abstract datas.
+The functions that used in abstract class have to be used in its child class.
